@@ -1,8 +1,5 @@
 <html>
 <head>
-<title>
-Insert Shitty Title Here
-</title>
 </head>
 <body bgcolor="000000">
 <center>
