@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-<body bgcolor="000000">
+<body bgcolor="FFFFFF">
 <center>
   
 <video width="800" height="600" autoplay loop muted>
